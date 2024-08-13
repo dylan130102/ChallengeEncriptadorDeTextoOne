@@ -1,6 +1,6 @@
 # ChallengeEncriptadorDeTextoOne
 
-#Descripción
+# Descripción
 El proyecto consiste en el desarrollo de una aplicación que permite encriptar y desencriptar textos, lo que te permitirá intercambiar mensajes secretos con otras personas que conozcan el método de encriptación utilizado.
 
 Para este proyecto, se utilizarán las siguientes "llaves" de encriptación:
